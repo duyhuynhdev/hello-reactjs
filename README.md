@@ -1,5 +1,5 @@
 
-# ReactFirstProject
+# hello-reactjs
 
 This project is the first step in React Roadmap. This one can be considered as the first playground for Duy in ReactJS. Developed by [Duy Huynh](https://www.linkedin.com/in/hpduy/)
 
